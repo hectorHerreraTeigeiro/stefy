@@ -1,0 +1,3 @@
+[submodule "factura_electronica_pa"]
+	path = factura_electronica_pa
+	url = git@github.com:eduwebgroup/factura_electronica_pa.git
