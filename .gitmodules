@@ -1,28 +1,28 @@
 [submodule "factura_electronica_pa"]
 	path = factura_electronica_pa
 	url = git@github.com:eduwebgroup/factura_electronica_pa.git
-	branch = 15.0
+	branch = 13.0
 [submodule "company_subsidiary"]
 	path = company_subsidiary
 	url = git@github.com:eduwebgroup/company_subsidiary.git
-	branch = 15.0
+	branch = 13.0
 [submodule "panama_company_subsidiary"]
 	path = panama_company_subsidiary
 	url = git@github.com:eduwebgroup/panama_company_subsidiary.git
-	branch = 15.0
+	branch = 13.0
 [submodule "panama_divisions"]
 	path = panama_divisions
 	url = git@github.com:eduwebgroup/panama_divisions.git
-	branch = 15.0
+	branch = 13.0
 [submodule "panama_goods_service_code"]
 	path = panama_goods_service_code
 	url = git@github.com:eduwebgroup/panama_goods_service_code.git
-	branch = 15.0
+	branch = 13.0
 [submodule "panama_ruc_validator"]
 	path = panama_ruc_validator
 	url = git@github.com:eduwebgroup/panama_ruc_validator.git
-	branch = 15.0
+	branch = 13.0
 [submodule "panama_uom"]
 	path = panama_uom
 	url = git@github.com:eduwebgroup/panama_uom.git
-	branch = 15.0
+	branch = 13.0
